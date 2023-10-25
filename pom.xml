@@ -3,13 +3,13 @@
 
 	<groupId>org.kuhlins.natives</groupId>
 	<artifactId>tk-natives-im-win64</artifactId>
-	<version>7.1.1</version>
+	<version>7.1.2-SNAPSHOT</version>
 
 	<scm>
 		<url>https://github.com/thomaskuh/tk-natives-im-win64</url>
 		<connection>scm:git:git://github.com/thomaskuh/tk-natives-im-win64.git</connection>
 		<developerConnection>scm:git:git@github.com:thomaskuh/tk-natives-im-win64.git</developerConnection>
-		<tag>release/7.1.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 	
 	<distributionManagement>
